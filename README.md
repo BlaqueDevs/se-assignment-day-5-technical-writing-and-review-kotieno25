@@ -195,7 +195,7 @@ o	Maintain Hierarchy: Use up to four levels of headings to maintain clarity and 
 ## 10. What are some best practices for creating effective headings and subheadings?
 Creating effective headings and subheadings in technical writing for software documentation, tutorials, reports, and proposals is crucial for clarity, readability, and user engagement. Here are some best practices tailored for these contexts:<br/>
 •	Use a Hierarchical Structure<br/>
-o	HTML Tags: Use HTML tags like <h1>, <h2>, <h3>, etc., to denote different levels of headings. This structure helps both humans and search engines understand your content's organization.<br/>
+o	HTML Tags: Use HTML tags (like <h1>, <h2>, <h3>,) etc., to denote different levels of headings. This structure helps both humans and search engines understand your content's organization.<br/>
 o	Consistency: Ensure that each level of heading is used consistently throughout your content to maintain clarity and avoid confusion.<br/>
 •	Be Descriptive and Concise<br/>
 o	Clear Language: Use clear and concise language that accurately reflects the content of each section. Avoid vague or generic headings like "Introduction" or "Overview".<br/>
