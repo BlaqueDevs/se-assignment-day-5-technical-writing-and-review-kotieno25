@@ -199,7 +199,7 @@ o	HTML Tags: Use HTML tags like <h1>, <h2>, <h3>, etc., to denote different leve
 o	Consistency: Ensure that each level of heading is used consistently throughout your content to maintain clarity and avoid confusion.<br/>
 •	Be Descriptive and Concise<br/>
 o	Clear Language: Use clear and concise language that accurately reflects the content of each section. Avoid vague or generic headings like "Introduction" or "Overview".<br/>
-o	Examples: Use headings that summarize the main points or questions addressed in each section, such as "What is the Problem?" or "How to Solve It?".<br/>
+o	Examples: Use headings that summarize the main points or questions addressed in each section, such as "What is the Problem?" or "How to Solve It?.<br/>
 •	Incorporate SEO Relevant Keywords: Include relevant keywords in your headings and subheadings to improve SEO performance. This helps your content rank better in search results.<br/>
 •	Use Parallel Structure Consistent Phrasing: Use a parallel structure in your headings and subheadings to maintain consistency and readability. For example, if one subheading starts with a verb, use the same pattern for others at the same level.<br/>
 •	Enhance Readability with Visual Cues<br/>
