@@ -195,13 +195,13 @@ o	Maintain Hierarchy: Use up to four levels of headings to maintain clarity and 
 ## 10. What are some best practices for creating effective headings and subheadings?
 Creating effective headings and subheadings in technical writing for software documentation, tutorials, reports, and proposals is crucial for clarity, readability, and user engagement. Here are some best practices tailored for these contexts:<br/>
 •	Use a Hierarchical Structure<br/>
-o	HTML Tags: Use HTML tags (like <h1>, <h2>, <h3>,) etc., to denote different levels of headings. This structure helps both humans and search engines understand your content's organization.<br/>
+o	HTML Tags: Use HTML tags for headings to denote different levels of headings. This structure helps both humans and search engines understand your content's organization.<br/>
 o	Consistency: Ensure that each level of heading is used consistently throughout your content to maintain clarity and avoid confusion.<br/>
 •	Be Descriptive and Concise<br/>
 o	Clear Language: Use clear and concise language that accurately reflects the content of each section. Avoid vague or generic headings like "Introduction" or "Overview".<br/>
 o	Examples: Use headings that summarize the main points or questions addressed in each section, such as "What is the Problem?" or "How to Solve It?.<br/>
-•	Incorporate SEO Relevant Keywords: Include relevant keywords in your headings and subheadings to improve SEO performance. This helps your content rank better in search results.<br/>
-•	Use Parallel Structure Consistent Phrasing: Use a parallel structure in your headings and subheadings to maintain consistency and readability. For example, if one subheading starts with a verb, use the same pattern for others at the same level.<br/>
+•	Incorporate SEO-relevant keywords: Include relevant keywords in your headings and subheadings to improve SEO performance. This helps your content rank better in search results.<br/>
+•	Use Parallel Structure and Consistent Phrasing: Use a parallel structure in your headings and subheadings to maintain consistency and readability. For example, if one subheading starts with a verb, use the same pattern for others at the same level.<br/>
 •	Enhance Readability with Visual Cues<br/>
 o	White Space: Use more white space above headings than below them to visually distinguish sections.<br/>
 o	Font Styles: Use a sans-serif font for headings to improve readability.<br/>
